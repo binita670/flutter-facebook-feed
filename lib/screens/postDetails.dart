@@ -52,9 +52,12 @@ class PostDetail extends StatelessWidget {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [
-                    _textWhite('${data["reacts"]} Likes'),
-                    _textWhite('${data["comments"]} Comments'),
-                    _textWhite('${data["shares"]} Shares'),
+                    Text('${data["reacts"]} Likes',
+                        style: TextStyle(color: Colors.black)),
+                    Text('${data["comments"]} Comments',
+                        style: TextStyle(color: Colors.black)),
+                    Text('${data["shares"]} Shares',
+                        style: TextStyle(color: Colors.black)),
                   ],
                 ),
                 SizedBox(height: 10),
@@ -64,9 +67,5 @@ class PostDetail extends StatelessWidget {
         ),
       ),
     );
-  }
-
-  Widget _textWhite(String text) {
-    return Text(text, style: TextStyle(color: Colors.black));
   }
 }
