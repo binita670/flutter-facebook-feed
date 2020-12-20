@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/binita670/flutter-facebook-feed/blob/master/screenshots/Screenshot_1608470195.png”>
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“screenshots/Screenshot_1608470195.png”>
 ![frontPage image](https://github.com/binita670/flutter-facebook-feed/blob/master/screenshots/Screenshot_1608470195.png)
 ![image](https://github.com/binita670/flutter-facebook-feed/blob/master/screenshots/Screenshot_1608470220.png)
 ![image](https://github.com/binita670/flutter-facebook-feed/blob/master/screenshots/Screenshot_1608470244.png)
