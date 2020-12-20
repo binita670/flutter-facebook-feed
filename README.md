@@ -16,3 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ![frontPage image](https://github.com/binita670/flutter-facebook-feed/blob/master/screenshots/Screenshot_1608470195.png)
+![image](https://github.com/binita670/flutter-facebook-feed/blob/master/screenshots/Screenshot_1608470220.png)
+![image](https://github.com/binita670/flutter-facebook-feed/blob/master/screenshots/Screenshot_1608470244.png)
